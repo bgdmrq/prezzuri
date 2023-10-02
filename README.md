@@ -29,6 +29,6 @@ The "Prezzuri" Firefox extension automatically calculates and displays the price
 1. Navigate to the [Bringo.ro](https://www.bringo.ro/) website and select your preferred store.
 2. Browse through the products, and you will see the calculated price per kilogram displayed next to each product.
 
-## License
+## Copyright
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+All rights reserved. (C) Bogdan Marcu
