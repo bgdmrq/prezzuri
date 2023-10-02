@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+    "name": "Price Per Kg",
+    "version": "1.0",
+    "description": "Displays price per kg for grocery items",
+    "permissions": [
+        "activeTab",
+        "<all_urls>"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "*://www.bringo.ro/*"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}
